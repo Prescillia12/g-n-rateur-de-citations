@@ -1,0 +1,43 @@
+p{
+	
+	max-width: 480px;
+	margin-top: 50px;
+	font-family: 'Contrail One', cursive;
+}
+
+h1 {
+    text-align: center;
+}
+
+blockquote {
+	margin: 100px;
+	padding: 50px;
+	font-family: 'Caveat', cursive;
+	font-size: 28px;
+	background-color: rgb(238, 95, 174);
+	border: 2px solid rgb(146, 18, 97);
+	border-radius: 10px;
+}
+
+.quote {
+	height: auto;
+}
+
+footer {
+	padding-top: 10px;
+}
+
+
+button#generer {
+	padding: 10px;
+	border-radius: 20px 20px 20px 0;
+	background-color: rgb(2, 83, 2);
+	float: right;
+	color: white;
+}
+
+button#generer:hover {
+	box-shadow: yellow 5px 5px 5px;
+	color: black;
+	transition: 2s;
+}
